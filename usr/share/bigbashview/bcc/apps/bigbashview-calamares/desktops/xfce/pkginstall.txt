@@ -8,3 +8,9 @@ brave-browser
 cheese
 zip
 libreoffice-fresh
+gimp
+clementine
+smplayer
+kate
+mystiq
+lutris
