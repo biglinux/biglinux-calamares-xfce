@@ -65,3 +65,4 @@ xfce4-xkb-plugin
 parole
 xfce4-whiskermenu-plugin
 zip
+galculator
