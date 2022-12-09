@@ -17,4 +17,4 @@ export TEXTDOMAIN=biglinux-calamares-xfce
 
 
 DESKTOP_NAME_DESC=$"XFCE"
-DESKTOP_INFO_DESC=$"DESCREVA EM POUCAS PALAVRAS O DESKTOP XFCE."
+DESKTOP_INFO_DESC=$"Uma interface leve para computadores modestos."
