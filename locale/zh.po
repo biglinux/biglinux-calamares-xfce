@@ -19,5 +19,5 @@ msgstr ""
 msgid "XFCE"
 msgstr "XFCE"
 
-msgid "DESCREVA EM POUCAS PALAVRAS O DESKTOP XFCE."
-msgstr "简而言之，描述桌面XFCE。"
+msgid "Uma interface leve para computadores modestos."
+msgstr "适用于普通计算机的轻量级界面。"

@@ -19,5 +19,5 @@ msgstr ""
 msgid "XFCE"
 msgstr "cesaret"
 
-msgid "DESCREVA EM POUCAS PALAVRAS O DESKTOP XFCE."
-msgstr "KISACA MASAÜSTÜ XFCE'YI AÇIKLAYIN."
+msgid "Uma interface leve para computadores modestos."
+msgstr "Mütevazı bilgisayarlar için hafif bir arayüz."

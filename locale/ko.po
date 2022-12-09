@@ -19,5 +19,5 @@ msgstr ""
 msgid "XFCE"
 msgstr "증권 시세 표시기"
 
-msgid "DESCREVA EM POUCAS PALAVRAS O DESKTOP XFCE."
-msgstr "데스크탑 XFCE를 간단히 설명해 보십시오."
+msgid "Uma interface leve para computadores modestos."
+msgstr "겸손한 컴퓨터를위한 경량 인터페이스."

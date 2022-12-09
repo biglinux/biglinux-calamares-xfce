@@ -17,5 +17,5 @@ msgstr  "Project-Id-Version: biglinux-calamares-xfce\n"
 msgid   "XFCE"
 msgstr  ""
 
-msgid   "DESCREVA EM POUCAS PALAVRAS O DESKTOP XFCE."
+msgid   "Uma interface leve para computadores modestos."
 msgstr  ""

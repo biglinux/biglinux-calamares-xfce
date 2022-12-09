@@ -19,5 +19,5 @@ msgstr ""
 msgid "XFCE"
 msgstr "XFCE"
 
-msgid "DESCREVA EM POUCAS PALAVRAS O DESKTOP XFCE."
-msgstr "ÍRJA LE DIÓHÉJBAN AZ ASZTALI XFCE-T."
+msgid "Uma interface leve para computadores modestos."
+msgstr "Könnyű interfész szerény számítógépekhez."

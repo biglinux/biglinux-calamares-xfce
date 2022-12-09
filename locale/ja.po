@@ -19,5 +19,5 @@ msgstr ""
 msgid "XFCE"
 msgstr "ティッカー"
 
-msgid "DESCREVA EM POUCAS PALAVRAS O DESKTOP XFCE."
-msgstr "デスクトップXFCEを一言で説明してください。"
+msgid "Uma interface leve para computadores modestos."
+msgstr "控えめなコンピュータ用の軽量インターフェイス。"

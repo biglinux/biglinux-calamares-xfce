@@ -19,5 +19,5 @@ msgstr ""
 msgid "XFCE"
 msgstr "XFCE"
 
-msgid "DESCREVA EM POUCAS PALAVRAS O DESKTOP XFCE."
-msgstr "DÉCRIVEZ EN QUELQUES MOTS LE XFCE DE BUREAU."
+msgid "Uma interface leve para computadores modestos."
+msgstr "Une interface légère pour les ordinateurs modestes."
