@@ -64,5 +64,6 @@ xfce4-weather-plugin
 xfce4-xkb-plugin
 parole
 xfce4-whiskermenu-plugin
-zip
+xarchiver
 galculator
+lightdm-webkit2-greeter
