@@ -65,5 +65,6 @@ xfce4-xkb-plugin
 parole
 xfce4-whiskermenu-plugin
 xarchiver
-galculator
+deepin-calculator
 lightdm-webkit2-greeter
+ocs-url
