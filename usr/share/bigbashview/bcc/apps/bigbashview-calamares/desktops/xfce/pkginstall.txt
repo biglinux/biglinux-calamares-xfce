@@ -1,6 +1,6 @@
 biglinux-skel-xfce
 lightdm
-lightdm-theme-biglinux-community-lxqt
+lightdm-slick-biglinux-greeter
 lightdm-gtk-greeter
 libpamac-flatpak-plugin
 brave-browser 
