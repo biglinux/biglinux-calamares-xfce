@@ -71,4 +71,3 @@ lightdm-webkit2-greeter
 ocs-url
 fluent-icon-theme-git
 thunderbird
-lightdm-slick-biglinux-greeter
