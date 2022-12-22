@@ -69,3 +69,4 @@ xarchiver
 deepin-calculator
 lightdm-webkit2-greeter
 ocs-url
+fluent-icon-theme-git
