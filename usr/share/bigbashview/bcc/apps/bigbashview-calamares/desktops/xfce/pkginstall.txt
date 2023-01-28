@@ -71,3 +71,6 @@ lightdm-webkit2-greeter
 ocs-url
 fluent-icon-theme-git
 thunderbird
+materiav2-gtk-theme
+qogir-gtk-theme
+qogir-icon-theme
