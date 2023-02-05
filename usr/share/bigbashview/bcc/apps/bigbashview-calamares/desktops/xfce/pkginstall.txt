@@ -4,15 +4,11 @@ lightdm-slick-biglinux-greeter
 lightdm-gtk-greeter
 libpamac-flatpak-plugin
 brave-browser 
-cheese
+guvcview
 zip
 libreoffice-fresh
-gimp
-clementine
-smplayer
-kate
+vlc
 mystiq
-lutris
 exo
 garcon
 thunar
@@ -32,7 +28,6 @@ mousepad
 ristretto
 thunar-archive-plugin
 thunar-media-tags-plugin
-xfburn
 xfce4-artwork
 xfce4-battery-plugin
 xfce4-clipman-plugin
@@ -63,7 +58,6 @@ xfce4-verve-plugin
 xfce4-wavelan-plugin
 xfce4-weather-plugin
 xfce4-xkb-plugin
-parole
 xfce4-whiskermenu-plugin
 xarchiver
 deepin-calculator
