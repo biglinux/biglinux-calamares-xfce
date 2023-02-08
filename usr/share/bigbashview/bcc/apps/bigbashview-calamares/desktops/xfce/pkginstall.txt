@@ -5,7 +5,6 @@ lightdm-gtk-greeter
 libpamac-flatpak-plugin
 brave-browser 
 guvcview
-zip
 libreoffice-fresh
 vlc
 mystiq
@@ -60,11 +59,10 @@ xfce4-weather-plugin
 xfce4-xkb-plugin
 xfce4-whiskermenu-plugin
 xarchiver
-deepin-calculator
+galculator
 lightdm-webkit2-greeter
 ocs-url
 fluent-icon-theme-git
-thunderbird
 materiav2-gtk-theme
 qogir-gtk-theme
 qogir-icon-theme
