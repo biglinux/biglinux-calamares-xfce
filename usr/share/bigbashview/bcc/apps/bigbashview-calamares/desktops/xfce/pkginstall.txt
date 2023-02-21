@@ -66,3 +66,5 @@ fluent-icon-theme-git
 materiav2-gtk-theme
 qogir-gtk-theme
 qogir-icon-theme
+qt5ct
+qt5-styleplugins
