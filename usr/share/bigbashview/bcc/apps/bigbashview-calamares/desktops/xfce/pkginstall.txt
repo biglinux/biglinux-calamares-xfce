@@ -59,7 +59,7 @@ xfce4-weather-plugin
 xfce4-xkb-plugin
 xfce4-whiskermenu-plugin
 xarchiver
-galculator
+mate-calc
 lightdm-webkit2-greeter
 ocs-url
 fluent-icon-theme-git
@@ -68,3 +68,6 @@ qogir-gtk-theme
 qogir-icon-theme
 qt5ct
 qt5-styleplugins
+mugshot
+pavucontrol
+mate-calc
