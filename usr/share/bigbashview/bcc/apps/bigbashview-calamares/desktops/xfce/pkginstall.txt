@@ -69,3 +69,4 @@ qogir-icon-theme
 qt5ct
 qt5-styleplugins
 mugshot
+pavucontrol
