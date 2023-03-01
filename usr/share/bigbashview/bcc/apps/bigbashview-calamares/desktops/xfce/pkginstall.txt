@@ -70,3 +70,4 @@ qt5ct
 qt5-styleplugins
 mugshot
 pavucontrol
+mate-calc
