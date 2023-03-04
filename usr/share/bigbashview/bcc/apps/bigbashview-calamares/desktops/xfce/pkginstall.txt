@@ -71,4 +71,5 @@ qt5-styleplugins
 mugshot
 pavucontrol
 mate-calc
- xfce4-panel-profiles
+xfce4-panel-profiles
+simplescreenrecorder
