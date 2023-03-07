@@ -73,3 +73,4 @@ pavucontrol
 mate-calc
 xfce4-panel-profiles
 simplescreenrecorder
+ffmpegthumbnailer
