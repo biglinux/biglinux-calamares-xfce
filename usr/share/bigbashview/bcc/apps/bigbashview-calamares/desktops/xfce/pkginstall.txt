@@ -75,3 +75,4 @@ xfce4-panel-profiles
 simplescreenrecorder
 ffmpegthumbnailer
 biglinux-settings
+guvcview-qt
