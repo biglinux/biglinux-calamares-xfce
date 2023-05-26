@@ -16,8 +16,5 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: attranslate\n"
 
-msgid "XFCE"
-msgstr "ティッカー"
-
 msgid "Uma interface leve para computadores modestos."
 msgstr "控えめなコンピュータ用の軽量インターフェイス。"

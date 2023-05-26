@@ -15,8 +15,5 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "XFCE"
-msgstr "XFCE"
-
 msgid "Uma interface leve para computadores modestos."
 msgstr "Uma interface leve para computadores modestos."
