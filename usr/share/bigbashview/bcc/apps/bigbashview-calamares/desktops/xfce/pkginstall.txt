@@ -76,3 +76,4 @@ simplescreenrecorder
 ffmpegthumbnailer
 biglinux-settings
 guvcview-qt
+numlockx
