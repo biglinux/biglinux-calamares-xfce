@@ -16,8 +16,5 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: attranslate\n"
 
-msgid "XFCE"
-msgstr "ΧΦΚΕ"
-
 msgid "Uma interface leve para computadores modestos."
 msgstr "Μια ελαφριά διεπαφή για μέτριους υπολογιστές."
